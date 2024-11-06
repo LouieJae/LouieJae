@@ -1,4 +1,4 @@
- - 👋 Hi, I’m @LouieJae – your friendly neighborhood web wizard.
+- 👋 Hi, I’m @LouieJae – your friendly neighborhood web wizard.
 - 👀 I’m interested in Building sleek, fast, and functional web magic that people actually love to use.
 - 🌱 I’m currently leveling up on Django and React – because the web never stops evolving, and neither do I.
 - 💞️ Open to collaborating on projects that push boundaries and make the internet a more interesting place.
